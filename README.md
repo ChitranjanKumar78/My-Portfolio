@@ -1,3 +1,3 @@
 # My-Portfolio
 
-<img src="img.jpg">
+<img src="resume_page.jpg">
