@@ -1,3 +1,3 @@
 # My-Portfolio
 
-<img src="resume_page.jpg">
+<img src="https://github.com/ChitranjanKumar78/My-Portfolio/blob/master/resume_page.png">
